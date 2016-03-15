@@ -23,6 +23,7 @@ libraryDependencies ++= Seq(
   "org.scala-lang.modules" % "scala-xml_2.11" % "1.0.5",
   "org.monifu" %% "monifu" % "1.0",
   "com.typesafe.play" % "play-ws_2.11" % "2.5.0",
+  "io.plasmap" %% "geow" % "0.3.11-SNAPSHOT",
   "com.janschulte" %% "akvokolekta" % "0.1.0-SNAPSHOT",
   "com.typesafe.akka" %% "akka-actor" % "2.4.2-RC1",
   "com.typesafe.akka" %% "akka-testkit" % "2.4.2",
