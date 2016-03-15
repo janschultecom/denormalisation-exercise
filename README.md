@@ -10,7 +10,8 @@ git clone https://github.com/janschultecom/denormalisation-exercise.git
 cd denormalisation-exercise
 ```
 
-The sample file can be downloaded here: [duesseldorf-regbez-latest.osm.bz2](http://download.geofabrik.de/europe/germany/nordrhein-westfalen/duesseldorf-regbez-latest.osm.bz2) 
+The sample file can be downloaded here: [duesseldorf-regbez-latest.osm.bz2 @ 223MB](http://download.geofabrik.de/europe/germany/nordrhein-westfalen/duesseldorf-regbez-latest.osm.bz2) 
+[bremen-latest.osm.bz2 @ 24.6MB](http://download.geofabrik.de/europe/germany/bremen-latest.osm.bz2)
 
 The resuling geojson files can be tested here:
 [geojson.io](http://geojson.io/#map=10/51.2030/6.8060)
